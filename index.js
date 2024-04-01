@@ -218,8 +218,4 @@ async function main() {
     });
 }
 
-let a = "66078939d985d271eb7d05f3";
-let b = "66078941d985d271eb7d05f4";
-let c = "660789f133ec6011b56bc2a5";
-
 main();
